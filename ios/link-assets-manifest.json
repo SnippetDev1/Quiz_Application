@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/Fonts/Islamic_units.ttf",
+      "sha1": "935429f7088f18d78375df1e5f6128f861af4b67"
+    },
+    {
+      "path": "src/assets/Fonts/Jameel_Noori.ttf",
+      "sha1": "0e1b5f7e76b67f91f0d780399d72a24e72356e89"
+    },
+    {
+      "path": "src/assets/Fonts/Pak_Nastaleeq.ttf",
+      "sha1": "a746d5625fe71fc96a21a3ec963a77c1c96b8c2b"
+    },
+    {
+      "path": "src/assets/Fonts/_PDMS_Jauhar_Regular.ttf",
+      "sha1": "825e2b7bfcb78396906c7d6bd17cc35155789599"
+    }
+  ]
+}
